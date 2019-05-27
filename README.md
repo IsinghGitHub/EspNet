@@ -14,5 +14,5 @@ conda install pytorch-cpu torchvision-cpu -c pytorch
 check the pytorch getstarted guide https://pytorch.org/get-started/locally/ for exact command.
 
 Original Imgae:
-![IMG_0399](https://user-images.githubusercontent.com/13658216/58405065-38e3c380-8084-11e9-8578-760d98e4f6b2.JPG)
+![](images/c_data_IMG_0400.JPG)
 
