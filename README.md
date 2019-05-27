@@ -15,5 +15,5 @@ check the pytorch getstarted guide https://pytorch.org/get-started/locally/ for 
 
 Original Imgae:
 <img src="images/IMG_0399.JPG" hight="100">
-![](images/IMG_0399.JPG)
+
 
