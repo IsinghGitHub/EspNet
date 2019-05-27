@@ -18,6 +18,6 @@ Original Image:
 <img src="images/IMG_0399.JPG">
 
 c_data:
-<img src="images/c_data_IMG_0400">
+<img src="images/c_data_IMG_0400.png">
 
 
