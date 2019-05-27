@@ -4,7 +4,7 @@ The ESPNet can be described as an "Efficient Spatial Pyramid of Dilated Convolut
 
 I have trained the model in Anaconda using few sample images which I took in dublin. The test results and described below.
 
-## Simple Stpes to Insall the required libraries and  Execute the Algorithm in Analconda.
+## Simple Stpes to Insall the required libraries and  Execute the Algorithm in Anaconda.
 
 # Libraries
 ```bash
