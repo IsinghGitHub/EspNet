@@ -7,6 +7,8 @@ I have trained the model in Anaconda using few sample images which I took in dub
 ## Simple Stpes to Insall the required libraries and  Execute the Algorithm in Anaconda.
 
 ### Install pytorch Libraries
+
 ```bash
 conda install pytorch-cpu torchvision-cpu -c pytorch
 ```
+check the pytorch getstarted guide https://pytorch.org/get-started/locally/ for exact command.
