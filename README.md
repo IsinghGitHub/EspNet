@@ -12,3 +12,6 @@ I have trained the model in Anaconda using few sample images which I took in dub
 conda install pytorch-cpu torchvision-cpu -c pytorch
 ```
 check the pytorch getstarted guide https://pytorch.org/get-started/locally/ for exact command.
+
+Original Imgae:
+![alt text](http://url/to/img.png)
