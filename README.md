@@ -4,7 +4,7 @@ ESPNet can be described as an "Efficient Spatial Pyramid of Dilated Convolutions
 
 I have trained the model in Anaconda using few sample images which I took in dublin. The test results and described below.
 
-## Simple Stpes to Insall the required libraries and  Execute the Algorithm in Anaconda.
+## Simple Steps to Install the required libraries and  Execute the Algorithm in Anaconda.
 
 ### Install pytorch Libraries
 
